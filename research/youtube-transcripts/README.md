@@ -1,11 +1,7 @@
-# YouTube Transcripts
+# YouTube Transcript Research
 
-Create one folder per expert when transcript research begins.
+This directory is reserved for transcript-based research when high-quality public YouTube material is available.
 
-Example:
+During this research pass, most selected experts were analyzed primarily through publicly available LinkedIn content, articles, newsletters, podcasts, and company resources.
 
-```text
-research/youtube-transcripts/expert-name/
-+-- video-01.md
-+-- video-02.md
-```
+Future iterations of this project may expand this section with transcript-based research where appropriate.
