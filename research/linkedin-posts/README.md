@@ -1,12 +1,7 @@
-# LinkedIn Posts
+# LinkedIn Research Notes
 
-Create one folder per expert when research begins.
+This directory contains research notes extracted from publicly available LinkedIn-related content for each selected expert.
 
-Example:
+Each expert has an individual folder containing five research notes focused on content strategy, positioning, executive branding, demand generation, and other relevant B2B SaaS topics.
 
-```text
-research/linkedin-posts/expert-name/
-+-- post-01.md
-+-- post-02.md
-+-- post-03.md
-```
+The notes preserve source attribution, strategic insights, verification limitations, and practical takeaways to support cross-expert synthesis.
